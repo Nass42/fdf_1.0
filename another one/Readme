@@ -1,0 +1,24 @@
+
+
+
+
+write
+◦ ft_printf and any equivalent YOU coded
+/***************** signal  *********************/
+signal(SIGTSTP, &handle_sigtstp);
+
+
+
+
+
+/***************** sigemptyset *****************/
+◦ sigaddset
+/***************** sigaction *****************/
+◦ kill
+◦ getpid
+◦ malloc
+◦ free
+◦ pause
+◦ sleep
+◦ usleep
+◦ exit
